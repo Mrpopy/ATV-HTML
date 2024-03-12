@@ -1,0 +1,18 @@
+table{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 100px;
+}
+th{
+    background-color: aqua;
+    border: 1px solid lightgray;
+    color: brown;
+}
+td{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+td:last-child{
+    background-color: black;
+    color: white;
+}

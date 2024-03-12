@@ -1,0 +1,9 @@
+div{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 20px 30px;
+    box-shadow: 10px 20px 10px black;
+    border-radius: 10px;
+}
+

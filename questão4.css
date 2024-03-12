@@ -1,0 +1,25 @@
+.principal{
+    width: 700px;
+    height: 700px;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.Pd9S0A0mlDMgbwV03mBvogHaEK&pid=Api&P=0&h=180); 
+    border: 1px solid black ;
+    background-size: cover;
+    padding: 20px;
+}
+.secundaria1{
+    width: 200px;
+    height: 200px;
+    border: 10px solid white;
+    background-color: white;
+    padding: 10px;
+}
+.secundaria2{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    background-color: black;
+    padding: 10px;
+    margin-top: 20px;
+}
+    
+

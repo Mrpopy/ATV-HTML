@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Vayu-dvDTA4gyktlqxM20DcIBc-pWb9rIe7Rxt3ct5XBQcfnPqGM3ctk7sKoWFFiILA&usqp=CAU) ;
+    background-size: cover;
+    }
+    form{
+        width: 179px;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        margin: 200px;
+        padding: 10px;
+    }
+    input{
+        display: flex;
+        border: 1px solid lightgreen;
+        border-radius: 5px;
+        padding: 4px;
+        margin-bottom: 10px;
+    }
+    button{
+        background-color: limegreen;
+        border: 1PX solid black;
+        width: 70PX;
+        border-radius: 5px;
+        cursor: pointer;
+        display: block;
+        margin-left: 50px;
+    }
+    button:hover{
+        background-color: red;
+    }

@@ -1,0 +1,15 @@
+.feira li{
+    width: 70px;
+    border-radius: 5px;
+    border: 1px solid lightgray; 
+    padding: 20px;
+    margin: 10px;
+}
+.feira li:first-child {
+    background-color: antiquewhite;
+    color: blue;
+}
+.feira li:last-child {
+    background-color: blueviolet;
+    color: rgb(16, 187, 16);
+}
